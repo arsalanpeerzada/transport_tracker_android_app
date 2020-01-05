@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transport Tracker</string>
+    <string name="title_activity_maps">Maps</string>
+
+</resources>
